@@ -27,7 +27,7 @@ public class Renderer extends Canvas {
     public Renderer(EntityManager manager) {
         this.manager = manager;
     }
-
+    
     BufferStrategy buffer;
     int toRotate = 1;
     //RPrism cube = new RPrism(100, 50, 30);

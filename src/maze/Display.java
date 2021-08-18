@@ -1,4 +1,5 @@
 package maze;
+
 import java.awt.Dimension;
 import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
